@@ -1,2 +1,2 @@
-# isomorphic-javascript-example
-Isomorphic JavaScript by example
+# isomorphic-javascript-nashorn-example
+Nashorn Isomorphic JavaScript by example
